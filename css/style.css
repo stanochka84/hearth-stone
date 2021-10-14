@@ -1,0 +1,134 @@
+body{
+    margin: 0;
+    font-family: 'Arial'; 
+}
+.img{
+    background-color: #0c131b;
+}
+.wrap{
+    width: 600px;
+    border-collapse: collapse;
+    background-color: #0c131b;
+}
+p{
+    margin: 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.bej{
+    background-color: #ebd2aa;
+}
+tr{
+    border-color:#0c131b;
+}
+td{
+    vertical-align: bottom;
+    box-sizing: border-box;
+}
+.button td,
+.button-two td{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.button{
+    width: 55%;
+    border-collapse: collapse;
+    border-radius: 4px;
+    background-color: #9f15a9;
+    font-size: 24px;
+    line-height: 22px;
+    color: #fffff8;
+    font-weight: bold;
+    padding-top: 35px;
+}
+.button-two{
+    width: 55%;
+    border-collapse: collapse;
+    border-radius: 3px;
+    background-color: #9f15a9;
+    font-size: 18px;
+    line-height: 22px;
+    color: #fffff8;
+    font-weight: bold;
+}
+.blue a{
+    color: #fffff8;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.new_cart{
+    padding-top: 1px;
+    color:#20b4bb;
+    font-size: 55px; 
+   font-weight: bold;
+   text-align: center; 
+}
+.one, .one_min{
+    color: #20b4bb; 
+    font-weight: bold; 
+    text-align: center;  
+}
+.one{
+    padding-top: 1px;
+    color: #9f15a9;
+}
+.one_min{
+    font-size: 36px; 
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 0;
+    
+}
+.two{
+    font-size: 36px; 
+    color: #bcbcbd; 
+    font-weight: bold; 
+    text-align: center;
+    /* padding-bottom: 35px; */
+    padding-left: 35px;
+    padding-right: 35px;
+}
+.paragraf{
+    padding-top: 20px;
+    font-size: 14px; 
+    line-height: 22px; 
+    color: #86918c;  
+    text-align: left;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.paragrafs{
+    padding-top: 35px;
+    font-size: 14px; 
+    line-height: 22px; 
+    color: #86918c;  
+    text-align: left;
+    padding-bottom: 35px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.tree{
+    color: #bcbcbd;
+    font-size: 24px;
+    line-height: 22px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+.proposition{
+    padding-top: 10px;
+}
+.two_blue{
+    font-size: 36px; 
+    color: #263870; 
+    font-weight: bold; 
+    text-align: center;
+}
+.finish{
+    padding-top: 40px;
+    padding-bottom: 50px;
+
+}
+.p-fin{
+    color:#000000;
+    font-size: 14px;
+}
